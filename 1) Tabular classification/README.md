@@ -11,5 +11,5 @@
 5) Обработать результаты, провести error analysis, сравнить модели (1 балл)
 
 P.S.:
-* ./submissions/sample_submission_file.csv — файл-шаблон для загружаемых ответов.
-* ./submissions/submission.csv — файл с полученными ответами.
+* ./submissions/sample_submission_file.csv — файл-шаблон для загружаемых ответов
+* ./submissions/submission.csv — файл с полученными ответами
