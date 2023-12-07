@@ -25,4 +25,6 @@
 
 P.S.:
 * В папке data/vectorized/ должны лежать векторные представления данных (но они занимают слишком много места, поэтому на git их всех не выложить)
-* В папке data/ должен лежать файл glove.6B.100d.txt с GloVe векторами для слов, его можно скачать по ссылке (http://nlp.stanford.edu/data/glove.6B.zip).
+* В папке data/ должен лежать файл glove.6B.100d.txt с GloVe векторами для слов, его можно скачать по ссылке (http://nlp.stanford.edu/data/glove.6B.zip)
+* ./submissions/sample_submission_file.csv — файл-шаблон для загружаемых ответов
+* ./submissions/submission.csv — файл с полученными ответами
